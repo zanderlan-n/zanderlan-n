@@ -10,7 +10,7 @@
 
 <!-- ![Metrics](https://metrics.lecoq.io/zanderlan-n?template=classic&languages=1&achievements=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FSao_Paulo) -->
 
-### Hi there, I'm Zanderlan Neto👋
+### Hi there, I'm Zanderlan, but everybody calls me Zan.👋
 
 <!--
 
@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently studying for AWS Certified Developer
 - 🔭 I’m currently working with Typescript, Graphql and serverless
 
 <div align="center">
