@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working with Typescript, Graphql and serverless
+- 📚 I am currently completing an MBA program with a focus on Software Engineering.
 
 <div align="center">
   <a href="https://github.com/zanderlan-n">
