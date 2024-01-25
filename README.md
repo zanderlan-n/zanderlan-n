@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working with Typescript, Graphql and serverless
-- 📚 I am currently completing an MBA program with a focus on Software Engineering.
+- 🔭 I’m currently working with Next.js, React.js, Node.js, Golang, Graphql and serverless
+- 📚 I am currently pursuing various specializations and certifications
+- 💬 Feel free to ask me about my experience with JavaScript frameworks, serverless architectures, and anything related to web development.
 
 <div align="center">
   <a href="https://github.com/zanderlan-n">
